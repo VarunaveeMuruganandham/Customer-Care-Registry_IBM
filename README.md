@@ -3,7 +3,7 @@ Customer Care Registry
 
 
 ![image](https://user-images.githubusercontent.com/77910582/200153990-1a5919a5-1649-4f55-bbad-a256fb7ae68a.png)
-CUSTOMER CARE REGISTRY
+
 TECHNOLOGY: CLOUD APP DEVELOPMENT
 
 TEAM ID:PNT2022TMID10937
