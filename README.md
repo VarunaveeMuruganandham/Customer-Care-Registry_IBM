@@ -10,7 +10,8 @@ Customer Care Registry
 <!-- PROJECT LOGO -->
 
 
-![image](https://user-images.githubusercontent.com/77910582/202619943-c627d226-c592-4c4a-883e-3b0e520d3ba1.png)
+![image](https://user-images.githubusercontent.com/77910582/202620131-fe175fcb-d08e-4c48-bf44-5125070f3f1d.png)
+
 
 
   
