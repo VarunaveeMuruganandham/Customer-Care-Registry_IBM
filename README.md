@@ -137,7 +137,7 @@ This Application has been developed to help the customer in processing their com
 | ------------- | ------------- |
 | Varunavee M  | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-8393-1658917758/tree/main/Assignment/Team%20Lead">CLICK HERE!  </a></button>                 
 | Sneka S | <button> <a href="https://github.com/IBM-EPBL/IBM-Project-8393-1658917758/tree/main/Assignment/Team%20Member%201">CLICK HERE!  </a> </button> |
-| Sowmiya N     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-8393-1658917758/tree/main/Assignment/Team%20Member%201/Assignment_3">CLICK HERE!  </a> </button> |
+| Sowmiya N     | <button><a href="https://github.com/IBM-EPBL/IBM-Project-8393-1658917758/tree/main/Assignment/Team%20Member%202">CLICK HERE!  </a> </button> |
 | Sujitha S  | <button><a href="https://github.com/IBM-EPBL/IBM-Project-8393-1658917758/tree/main/Assignment/Team%20Member%203">CLICK HERE!  </a> </button> |
 
 <hr>
@@ -180,8 +180,6 @@ This Application has been developed to help the customer in processing their com
 
 
 <hr>
-📫 How to reach Us <a href = "mailto:varunavee2002@gmail.com">Connect with Email</a>
-
 <hr>
 <div align="center">
  <h5> | `CUSTOMER CARE REGISTRY` |</h5>
