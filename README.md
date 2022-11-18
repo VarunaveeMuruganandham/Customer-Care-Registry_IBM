@@ -8,13 +8,11 @@ Customer Care Registry
 
 
 <!-- PROJECT LOGO -->
+![image](https://user-images.githubusercontent.com/77910582/202617210-43d2ba3f-db1c-41ad-a5a4-08e590ea1622.png)
 
-<p align="center">
-  <a href="">
-    <img src="/Images_content/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
+
+  
 
   <p align="center">
     TECHNOLOGY : CLOUD APP DEVELOPMENT <br />
